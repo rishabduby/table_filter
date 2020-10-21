@@ -6,7 +6,7 @@ function createData(id, name, amount, date) {
 }
 
 
-// All records
+// All records.
 const rows = [
     createData(1, 'Cupcake', 305, '2020-10-12'),
     createData(2, 'Donut', 452, '2020-10-13'),
